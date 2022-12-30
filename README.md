@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @h3-Hanouzz, but you can call me Han
 for short
-
--Gender: Male (prefers he/him)
+- Gender: Male (prefers he/him)
 - 👀 I’m interested in gaming and Linux
 - 🌱 I’m currently not learning anything, waiting
 to afford a better PC 
