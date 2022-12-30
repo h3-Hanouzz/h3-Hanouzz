@@ -9,8 +9,11 @@ or Linux related
  (Tho I'm kindof green-hat)
 - 📫 How to reach me: You may contact me on
 Discord, Scratch or PlanetMinecraft
+
 Discord: hanouzz#0405
+
 Scratch: @Hanouzz1153
+
 PlanetMinecraft: https://www.planetminecraft.com/member/h3_hanouzz53/
 
 <!---
