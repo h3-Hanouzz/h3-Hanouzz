@@ -12,7 +12,7 @@ Discord, Scratch or PlanetMinecraft
 
 Discord: hanouzz#0405
 
-Scratch: @Hanouzz1153
+Scratch: https://scratch.mit.edu/users/Hanouzz1153/
 
 PlanetMinecraft: https://www.planetminecraft.com/member/h3_hanouzz53/
 
