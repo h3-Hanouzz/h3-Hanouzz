@@ -9,6 +9,6 @@
 - 💀 Discord: hanouzz#0405
 - 😼 Scratch: https://scratch.mit.edu/users/Hanouzz1153/
 - 🌎 PlanetMinecraft: https://www.planetminecraft.com/member/h3_hanouzz53/
-- 😄 Pronouns: they/he
+- ♂️ Pronouns: they/he
 - ⚡ Fun fact: I need money for a new PC 
 -->
