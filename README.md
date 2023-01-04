@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with learning to code Minecraft and Stardew Valley mods, a custom Minecraft launcher, custom building a couple linux distros, and Android apps
 - 💬 Ask me about ...
 - 📫 How to reach me: Email, Discord, Scratch, PlanetMinecraft
-- 💌 Email: hanouzz@proton.me
+- 💌 Email: hanouzz@proton.me and hanouzz4business1@aol.com
 - 💀 Discord: hanouzz#0405
 - 😼 Scratch: https://scratch.mit.edu/users/Hanouzz1153/
 - 🌎 PlanetMinecraft: https://www.planetminecraft.com/member/h3_hanouzz53/
