@@ -6,7 +6,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: Email, Discord, Scratch, PlanetMinecraft
 - 💌 Email: hanouzz@proton.me and hanouzz4business1@aol.com
-- 💀 Discord: hanouzz#0405
+- 💀 Discord: hanouzz#9706
 - 😼 Scratch: https://scratch.mit.edu/users/Hanouzz1153/
 - 🌎 PlanetMinecraft: https://www.planetminecraft.com/member/h3_hanouzz53/
 - ♂️ Pronouns: they/he
