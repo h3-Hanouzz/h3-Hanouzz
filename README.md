@@ -9,6 +9,6 @@
 - 💀 Discord: hanouzz#9706 or hanouzz
 - 😼 Scratch: https://scratch.mit.edu/users/Hanouzz1153/
 - 🌎 PlanetMinecraft: https://www.planetminecraft.com/member/h3_hanouzz53/
-- ♂️ Pronouns: he/him
+- ♂️ Pronouns: I have XY chromosomes. Guess my pronouns. It isn't that difficult.
 - ⚡ Fun fact: I need money for a new PC build 
 -->
