@@ -11,6 +11,6 @@
 - 😼 Scratch: https://scratch.mit.edu/users/Hanouzz1153/
 - 🌎 PlanetMinecraft: https://www.planetminecraft.com/member/h3_hanouzz53/
 - 🧪 BandLab: https://www.bandlab.com/h3_studios537
-- ♂️ Pronouns: I have XY chromosomes. Guess my pronouns. It isn't that difficult.
+- ♂️ Pronouns: I have XY chromosomes; Does that help in determining my pronouns?
 - ⚡ Fun fact: I need money for a new PC build 
 -->
