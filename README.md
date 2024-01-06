@@ -1,16 +1,20 @@
 - 👋 Hey, I'm Hanouzz, or Han for short
 - 🎵 I'm the owner of music production group h3_ Studios
-- 🔭 I’m currently working on a game in Unity
-- 🌱 I’m currently learning C# 
-- 👯 I’m looking to collaborate on anything Minecraft or Linux related 
+- 🔭 I’m currently working on a game in ~~Unity~~ Godot [Paused for time being]
+- 🌱 I’m currently learning C# [Paused for the time being]
+- 👯 I’m looking to collaborate on anything Minecraft or Linux related
 - 🤔 I’m looking for help with learning to code Minecraft and Stardew Valley mods, a custom Minecraft launcher, custom building a couple linux distros, and Android apps all just hypothetical possibilities
-- 💬 Ask me about what Linux Distros to recommend
+- 💬 Ask me about what Linux Distros to recommend lol not much else rn.
 - 📫 How to reach me: Email, Discord, Scratch, PlanetMinecraft, BandLab
-- 💌 Email: hanouzz@proton.me and hanouzz4business1@aol.com
+- 💌 Email: hanouzz@proton.me 
 - 💀 Discord: hanouzz#9706 or hanouzz
 - 😼 Scratch: https://scratch.mit.edu/users/Hanouzz1153/
 - 🌎 PlanetMinecraft: https://www.planetminecraft.com/member/h3_hanouzz53/
 - 🧪 BandLab: https://www.bandlab.com/h3_studios537
 - ♂️ Pronouns: I have XY chromosomes; Does that help in determining my pronouns?
-- ⚡ Fun fact: I need money for a new PC build 
+- ⚡ Fun fact: I am building a PC spring 2024
+- 💾 Go check out virbOS and NemesisOS:
+- virbOS: https://github.com/Virbos
+- NemesisOS: https://github.com/Nemesis-OS
+- 🤖 Go check out discox: https://github.com/v1rbox/discox
 -->
