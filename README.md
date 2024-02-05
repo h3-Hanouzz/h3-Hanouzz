@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on a game in ~~Unity~~ Godot [Paused for time being]
 - 🌱 I’m currently learning C# [Paused for the time being]
 - 👯 I’m looking to collaborate on anything Minecraft or Linux related
-- 🤔 I’m looking for help with learning to code Minecraft and Stardew Valley mods, a custom Minecraft launcher, custom building a couple linux distros, and Android apps all just hypothetical possibilities
 - 💬 Ask me about what Linux Distros to recommend lol not much else rn.
 - 📫 How to reach me: Email, Discord, Scratch, PlanetMinecraft, BandLab
 - 💌 Email: hanouzz@proton.me 
