@@ -15,6 +15,6 @@
 - 💾 Go check out virbOS and NemesisOS:
 - virbOS: https://github.com/Virbos
 - NemesisOS: https://github.com/Nemesis-OS
-- 🤖 Go check out discox: https://github.com/v1rbox/discox
+- 🤖 Go check out Discox: https://github.com/v1rbox/discox
 
   
