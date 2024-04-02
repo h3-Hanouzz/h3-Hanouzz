@@ -11,7 +11,7 @@
 - 🌎 PlanetMinecraft: https://www.planetminecraft.com/member/h3_hanouzz53/
 - 🧪 BandLab: https://www.bandlab.com/h3_studios537
 - ♂️ Pronouns: I have XY chromosomes; Does that help in determining my pronouns?
-- ⚡ Fun fact: I am building a PC spring 2024
+- ⚡ Fun fact: I am somehow still using Windows
 - 💾 Go check out virbOS and NemesisOS:
 - virbOS: https://github.com/Virbos
 - NemesisOS: https://github.com/Nemesis-OS
