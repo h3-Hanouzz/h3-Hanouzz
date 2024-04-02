@@ -18,6 +18,7 @@
 - 🤖 Go check out Discox: https://github.com/v1rbox/discox
 
 My PC:
-  ![Screenshot (16)](https://github.com/h3-Hanouzz/h3-Hanouzz/assets/121695954/3dcd240a-e5f0-4483-aa3b-d376a3973280)
+  ![Screenshot (17)](https://github.com/h3-Hanouzz/h3-Hanouzz/assets/121695954/3e082331-91d7-4c42-a023-11a02953a694)
+
 My laptop: 
 [COMING SOON!]
