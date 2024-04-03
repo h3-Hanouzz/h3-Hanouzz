@@ -12,9 +12,7 @@
 - 🧪 BandLab: https://www.bandlab.com/h3_studios537
 - ♂️ Pronouns: I have XY chromosomes; Does that help in determining my pronouns?
 - ⚡ Fun fact: I am somehow still using Windows
-- 💾 Go check out virbOS and NemesisOS:
-- virbOS: https://github.com/Virbos
-- NemesisOS: https://github.com/Nemesis-OS
+- 💾 Go check out virbOS: https://github.com/Virbos
 - 🤖 Go check out Discox: https://github.com/v1rbox/discox
 
 My PC:
