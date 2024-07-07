@@ -9,6 +9,7 @@
 - 💀 Discord: hanouzz#9706 or hanouzz
 - 😼 Scratch: https://scratch.mit.edu/users/Hanouzz1153/ (I don't check this often anymore)
 - 🐦 Twitter: @h3_studios_twt
+- 🎥 YouTube: https://www.youtube.com/@hanouzz_yt
 - ♂️ Pronouns: XY chromosomes (he him if that doesn't already explain it)
 - ⚡ Fun fact: I am somehow still using Windows
 - 💾 Go check out virbOS: https://github.com/Virbos
