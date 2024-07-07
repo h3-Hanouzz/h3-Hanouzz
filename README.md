@@ -1,7 +1,7 @@
 - 👋 Hey, I'm Hanouzz, or Han for short
 - 🎵 I'm the owner of music production group h3_ Studios
 - 🔭 I’m currently working on a game in ~~Unity~~ Godot [Paused for time being]
-- 🌱 I’m currently learning C# [Paused for the time being]
+- 🌱 I’m currently learning how to automate tasks and IT with Python
 - 👯 I’m looking to collaborate on anything Minecraft or Linux related
 - 💬 Ask me about what Linux Distros to recommend lol not much else rn.
 - 📫 How to reach me: Email, Discord, Scratch, Twitter
