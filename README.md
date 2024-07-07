@@ -10,7 +10,7 @@
 - 😼 Scratch: https://scratch.mit.edu/users/Hanouzz1153/
 - 🌎 PlanetMinecraft: https://www.planetminecraft.com/member/h3_hanouzz53/
 - 🧪 BandLab: https://www.bandlab.com/h3_studios537
-- ♂️ Pronouns: XY chromosomes (he him if that doesn't explain it already)
+- ♂️ Pronouns: XY chromosomes (he him if that doesn't already explain it)
 - ⚡ Fun fact: I am somehow still using Windows
 - 💾 Go check out virbOS: https://github.com/Virbos
 - 💻 Go check out NemesisOS: https://sr.ht/~abrik1/Project-Nemesis/
