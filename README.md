@@ -6,7 +6,8 @@
 - 💬 Ask me about what Linux Distros to recommend lol not much else rn.
 - 📫 How to reach me: Email, Discord, Scratch, Twitter
 - 💌 Email: hanouzz@proton.me 
-- 💀 Discord: hanouzz#9706 or hanouzz    Here's the [server link.](discord.gg/t5Yk7PCzsm)
+- 💀 Discord: hanouzz#9706 or hanouzz  
+- 🌐 Discord Server: [h3_ Hideout](discord.gg/t5Yk7PCzsm)
 - 😼 Scratch: [Hanouzz1153](https://scratch.mit.edu/users/Hanouzz1153/) (I don't check this often anymore)
 - 🐦 Twitter: [h3_ (@h3_studios_twt)](https://twitter.com/h3_studios_twt)
 - 🎥 YouTube: [Hanouzz (@hanouzz_yt)](https://www.youtube.com/@hanouzz_yt)
