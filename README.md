@@ -4,12 +4,11 @@
 - 🌱 I’m currently learning C# [Paused for the time being]
 - 👯 I’m looking to collaborate on anything Minecraft or Linux related
 - 💬 Ask me about what Linux Distros to recommend lol not much else rn.
-- 📫 How to reach me: Email, Discord, Scratch, PlanetMinecraft, BandLab
+- 📫 How to reach me: Email, Discord, Scratch, Twitter
 - 💌 Email: hanouzz@proton.me 
 - 💀 Discord: hanouzz#9706 or hanouzz
 - 😼 Scratch: https://scratch.mit.edu/users/Hanouzz1153/
-- 🌎 PlanetMinecraft: https://www.planetminecraft.com/member/h3_hanouzz53/
-- 🧪 BandLab: https://www.bandlab.com/h3_studios537
+- 🐦 Twitter: @h3_studios_twt
 - ♂️ Pronouns: XY chromosomes (he him if that doesn't already explain it)
 - ⚡ Fun fact: I am somehow still using Windows
 - 💾 Go check out virbOS: https://github.com/Virbos
