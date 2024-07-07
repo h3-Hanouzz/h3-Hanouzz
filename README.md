@@ -13,6 +13,8 @@
 - ♂️ Pronouns: I have XY chromosomes; Does that help in determining my pronouns?
 - ⚡ Fun fact: I am somehow still using Windows
 - 💾 Go check out virbOS: https://github.com/Virbos
+- 💻 Go check out NemesisOS: https://sr.ht/~abrik1/Project-Nemesis/
+- 📑 Go check out Project Nemesis's GitHub archive: https://github.com/Nemesis-OS
 - 🤖 Go check out Discox: https://github.com/v1rbox/discox
 
 My PC:
