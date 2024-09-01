@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning how to automate tasks and IT with Python
 - 👯 I’m looking to collaborate on anything Minecraft or Linux related
 - 💬 Ask me about what Linux Distros to recommend lol not much else rn.
-- 📫 How to reach me: Email, Discord, Scratch, Twitter (probably the best way)
+- 📫 How to reach me: Email (the best way rn), Discord, Scratch, Twitter (probably the 2nd best way)
 - 💌 Email: hanouzz@proton.me 
 - 💀 Discord: hanouzz#9706 or hanouzz  
 - 🌐 Discord Server: [h3_ Hideout](discord.gg/t5Yk7PCzsm)
