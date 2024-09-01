@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning how to automate tasks and IT with Python
 - 👯 I’m looking to collaborate on anything Minecraft or Linux related
 - 💬 Ask me about what Linux Distros to recommend lol not much else rn.
-- 📫 How to reach me: Email, Discord, Scratch, Twitter
+- 📫 How to reach me: Email, Discord, Scratch, Twitter (probably the best way)
 - 💌 Email: hanouzz@proton.me 
 - 💀 Discord: hanouzz#9706 or hanouzz  
 - 🌐 Discord Server: [h3_ Hideout](discord.gg/t5Yk7PCzsm)
@@ -12,7 +12,7 @@
 - 🐦 Twitter: [h3_ (@h3_studios_twt)](https://twitter.com/h3_studios_twt)
 - 🎥 YouTube: [Hanouzz (@hanouzz_yt)](https://www.youtube.com/@hanouzz_yt)
 - ♂️ Pronouns: XY chromosomes (he him if that doesn't already explain it)
-- ⚡ Fun fact: I am somehow still using Windows
+- ⚡ Fun fact: I am somehow still using Windows and I use Arch, btw.
 - 💾 Go check out virbOS: https://github.com/Virbos
 - 💻 Go check out NemesisOS: https://sr.ht/~abrik1/Project-Nemesis/
 - 📑 Go check out Project Nemesis's GitHub archive: https://github.com/Nemesis-OS
