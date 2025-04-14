@@ -7,7 +7,7 @@
 - 📫 How to reach me: Email, Discord, Twitter, and Scratch
 - 💌 Email: hanouzz@proton.me
 - 🌐 Discord Server: [h3_ Hideout](discord.gg/t5Yk7PCzsm)
-- 🐦 Twitter: [h3_ (@h3_studios_twt)](https://twitter.com/h3_studios_twt) (this is the fastest way)
+- 🐦 Twitter: [h3_ Hanouzz(@Hanouzz1153)](https://twitter.com/Hanouzz1153) (this is the fastest way)
 - 😼 Scratch: [Hanouzz1153](https://scratch.mit.edu/users/Hanouzz1153/) (I don't check this often anymore)
 - 🎥 YouTube: [Hanouzz (@hanouzz_yt)](https://www.youtube.com/@hanouzz_yt)
 - ♂️ Pronouns: XY chromosomes (he him if that doesn't already explain it)
