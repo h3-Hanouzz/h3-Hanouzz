@@ -11,7 +11,7 @@
 - 😼 Scratch: [Hanouzz1153](https://scratch.mit.edu/users/Hanouzz1153/) (I don't check this often anymore)
 - 🎥 YouTube: [Hanouzz (@hanouzz_yt)](https://www.youtube.com/@hanouzz_yt)
 - ♂️ Pronouns: XY chromosomes (he him if that doesn't already explain it)
-- ⚡ Fun fact: I am somehow still using Windows and I use Arch, btw.
+- ⚡ Fun fact: I need to buy an OLED 1440p monitor, a Steam Deck OLED, a New 2ds XL, and an AMD Framework laptop
 - 💾 Go check out virbOS: https://github.com/Virbos
 - 💻 Go check out NemesisOS: https://sr.ht/~abrik1/Project-Nemesis/
 - 📑 Go check out Project Nemesis's GitHub archive: https://github.com/Nemesis-OS
