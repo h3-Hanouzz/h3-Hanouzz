@@ -1,4 +1,5 @@
 - 👋 Hey, I'm Hanouzz, or Han for short
+- 🎂 My birthday is December 11th, 2009
 - 🎵 I'm the owner of music production group h3_ Studios
 - 🔭 I’m currently working on a game in ~~Unity~~ Godot [Paused for time being]
 - 🌱 I’m currently learning how to automate tasks and IT with Python
