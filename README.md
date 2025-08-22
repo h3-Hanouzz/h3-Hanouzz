@@ -10,7 +10,7 @@
 - 😼 Scratch: [Hanouzz1153](https://scratch.mit.edu/users/Hanouzz1153/) (I don't check this often anymore)
 - 🎥 YouTube: [Hanouzz (@hanouzz_yt)](https://www.youtube.com/@hanouzz_yt)
 - ♂️ Pronouns: XY chromosomes (he him if that doesn't already explain it)
-- 💵 Tech wishlist: a Steam Deck OLED, a New 2ds XL, a MacBook Pro 16, an AMD Framework laptop (13/16), a CECHA01 Frankenstein PS3 w/ new capacitors, a Wii U Deluxe, a Switch 2, Meshtastic Devices.
+- 💵 Tech wishlist: an Apple Silicon MacBook Pro 16, an AMD Framework laptop (13/16), a New 2ds XL, a Steam Deck OLED, a CECHA01 Frankenstein PS3 w/ new capacitors, a Wii U Deluxe, a Switch 2, Meshtastic Devices.
 - 💾 Go check out virbOS: https://github.com/Virbos
 - 💻 Go check out NemesisOS: https://sr.ht/~abrik1/Project-Nemesis/
 - 📑 Go check out Project Nemesis's GitHub archive: https://github.com/Nemesis-OS
